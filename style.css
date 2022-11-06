@@ -5,6 +5,8 @@ box-sizing: border-box
   
 body {
 background-image: url(https://imagens.ne10.uol.com.br/img/imagens/2020/01/22/ff12b3d2e4_design-sem-nome-9.jpg);
+background-repeat: no-repeat;
+background-size: cover;
 color: white;
 text-align: center;
 font-family: sans-serif;
